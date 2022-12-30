@@ -4,16 +4,16 @@
 - A quite low amount of braincells (not required)\
 
 # How to install
-- Install cv2, ffpyplayer\
+Install cv2, ffpyplayer\
 
 # How to run
-- Run `idiot.pyw`\
+Run `idiot.pyw`\
 
 # How to stop
-- Run `kill.bat`; it should kill all Python processes.
+Run `kill.bat`; it should kill all Python processes.
 
 # Problems
-- If it doesnt run another Window after closing one, try changing the `py idiot.pyw` to `python idiot.pyw` or just `idiot.pyw`.
+If it doesnt run another Window after closing one, try changing the `py idiot.pyw` to `python idiot.pyw` or just `idiot.pyw`.
 
 # Damage
 bro if you fucking cause damage with this you should get medal
