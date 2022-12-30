@@ -1,7 +1,7 @@
 # What do you need
-- Windows machine that supports ComputerVision\
-- Python and PIP yes\
-- A quite low amount of braincells (not required)\
+- Windows machine that supports ComputerVision
+- Python and PIP yes
+- A quite low amount of braincells (not required)
 
 # How to install
 Install cv2, ffpyplayer\
