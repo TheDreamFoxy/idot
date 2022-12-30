@@ -16,4 +16,4 @@ Run `kill.bat`; it should kill all Python processes.
 If it doesnt run another Window after closing one, try changing the `py idiot.pyw` at line 79 to `python idiot.pyw` or just `idiot.pyw`.
 
 # Damage
-bro if you fucking cause damage with this you should get medal
+bro if you fucking cause damage with this you should get a medal
