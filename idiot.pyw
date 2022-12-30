@@ -3,7 +3,6 @@ from ffpyplayer.player import MediaPlayer
 import random
 import string
 from win32api import GetSystemMetrics
-import threading
 import subprocess
 
 monitor_x = GetSystemMetrics(0)
@@ -71,7 +70,7 @@ while(cap.isOpened()):
        continue
 
     if cv2.waitKey(80) & 0xFF == ord('q'):
-        threading.Thread(target=doit).start()
+        subprocess.Popen("cmd /c py idiot.pyw", creationflags=0x08000000)
         continue
 
     try:
