@@ -4,10 +4,10 @@
 - A quite low amount of braincells (not required)
 
 # How to install
-Install cv2, ffpyplayer\
+Install cv2, ffpyplayer
 
 # How to run
-Run `idiot.pyw`\
+Run `idiot.pyw`
 
 # How to stop
 Run `kill.bat`; it should kill all Python processes.
